@@ -146,7 +146,7 @@ terraform apply
 ------------------------------------------------------------------------
 
 ## Author
+Mahima Patel 
+DevOps & Cloud Engineering Student  
 
-**Mahima Patel**  
-Terraform | AWS | Cloud & DevOps
-
+GitHub: https://github.com/mahimapatel93
