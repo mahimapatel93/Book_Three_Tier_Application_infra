@@ -1,11 +1,11 @@
-# Terraform AWS Application Deployment
+ #              Terraform AWS Application Deployment
 
 This project provisions and deploys a **three-tier application
 (Frontend + Backend + Database)** on AWS using **Terraform modules**.
 
 ---
 
-## Components Provisioned
+##  Components Provisioned
 
 - VPC & Networking
 - Bastion Host
@@ -147,4 +147,6 @@ terraform apply
 
 ## Author
 
-Mahima Patel | Terraform | AWS | Cloud & DevOps
+**Mahima Patel**  
+Terraform | AWS | Cloud & DevOps
+
