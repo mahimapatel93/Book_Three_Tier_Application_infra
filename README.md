@@ -1,4 +1,4 @@
- #              Terraform AWS Application Deployment
+ #             Terraform AWS Application Deployment
 
 This project provisions and deploys a **three-tier application
 (Frontend + Backend + Database)** on AWS using **Terraform modules**.
